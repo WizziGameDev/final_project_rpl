@@ -16,3 +16,12 @@ Response Body
   "favourite"   : true
 }
 ```
+
+Delete
+
+Request Body
+```json
+{
+  "recipe_id"   : 1
+}
+```
